@@ -31,7 +31,7 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #8dc63f;
+  color: #EEF6E3;
   outline: none;
   text-decoration: none;
 }
@@ -293,7 +293,7 @@ body {
   display: inline;
 }
 #fh5co-header nav ul li a {
-  font-size: 18px;
+  font-size: 15px;
   color: rgba(255, 255, 255, 0.5);
   font-weight: 400;
 }
@@ -342,8 +342,8 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #2a2d36;
-  opacity: .54;
+  background-color: hsla(225,13%,19%,0.55);
+  opacity: 0.34;
   z-index: 9;
 }
 #fh5co-hero .fh5co-intro {
